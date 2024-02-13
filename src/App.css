@@ -1,0 +1,14 @@
+body{
+  background-color: #1d2530 !important;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont;
+  color: #fff !important;
+}
+table tbody tr:nth-child(even) {
+  background-color: #212429 !important; 
+}
+
+table thead th {
+  background-color: #2c3035 !important;
+  color: #fff !important;
+}
